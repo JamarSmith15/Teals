@@ -1,5 +1,5 @@
 # Teals
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/validnene01/Teals/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JamarSmith15/Teals/HEAD)
 
 # TEALS (Level 1 Heading)
 *This is text under level 1.* This is for the **Instruction to Software Technologies** class at [Towers High School!](https://www.towershs.dekalb.k12.ga.us/)
